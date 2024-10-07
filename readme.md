@@ -3,7 +3,7 @@
 <img src="https://media.licdn.com/dms/image/v2/C4D03AQF0J4gnBUSBxg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517036086225?e=1733961600&v=beta&t=omtdtpCPBoEdg7cn0LQFVsXXYJNjd3rnhe3BDduESAk" alt="Marcelo Sureda">
 
 <p>
-Principal Technical Consultant in <a href="https://www.aciworldwide.com/">ACI Worldwide</a>
+Principal Technical Consultant at <a href="https://www.aciworldwide.com/">ACI Worldwide</a>
 </p>
 
 <img src="https://media.licdn.com/dms/image/v2/D560BAQF-RFXMrIE5VQ/company-logo_100_100/company-logo_100_100/0/1714485932662/aci_worldwide_logo?e=1736380800&v=beta&t=RoYVuLo6DqjgE4q4b6FULHQvX0m26EJWc3BOyvfHCaQ" alt="ACI Logo">
@@ -14,7 +14,7 @@ Principal Technical Consultant in <a href="https://www.aciworldwide.com/">ACI Wo
 
 <a href="https://www.linkedin.com/in/marcelosureda/">Linkedin profile</a>
 
-Contact mail: <a href="mailto:msureda@gmail.com">msureda@gmail.com</a>
+Contact e-mail: <a href="mailto:msureda@gmail.com">msureda@gmail.com</a>
 
 <h1>Experience & Knowledge</h1>
 
@@ -25,7 +25,12 @@ Contact mail: <a href="mailto:msureda@gmail.com">msureda@gmail.com</a>
 <li>TAL</li>
 <li>Java</li>
 <li>Python</li>
-<li>Shell script: ksh, bash, csh</li>
+<li>Shell script:</li>
+<ul>
+<li>bash</li>
+<li>ksh</li>
+<li>csh</li>
+</ul>
 </ul>
 
 <h2>Areas of knowledge</h2>
