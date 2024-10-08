@@ -64,11 +64,19 @@ Contact e-mail: <a href="mailto:msureda@gmail.com">msureda@gmail.com</a>
 <h3>Database</h3>
 
 <ul>
+<li>Enscribe</li>
 <li>Oracle</li>
 <li>Postgres</li>
-<li>Mongo DB</li>
 <li>Microsoft SQL Server</li>
-<li>Enscribe</li>
+<li>Mongo DB</li>
+<li>Neo4j</li>
+</ul>
+
+<h3>Message Brokers</h3>
+
+<ul>
+<li>IBM MQ</li>
+<li>Rabbit MQ</li>
 </ul>
 
 <h3>Cloud Computing</h3>
@@ -85,6 +93,7 @@ Contact e-mail: <a href="mailto:msureda@gmail.com">msureda@gmail.com</a>
 <li>Troubleshooting</li>
 <li>Agile methodologies</li>
 <li>Technical lead in software development projects</li>
+<li>Excellent communication skills</li>
 </ul>
 
 <h1>Languages</h1>
