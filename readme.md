@@ -1,6 +1,6 @@
-<center>
+<h1>Profile</h1>
 
-<!--img src="https://media.licdn.com/dms/image/v2/C4D03AQF0J4gnBUSBxg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517036086225?e=1733961600&v=beta&t=omtdtpCPBoEdg7cn0LQFVsXXYJNjd3rnhe3BDduESAk" alt="Marcelo Sureda"/>
+<center>
 
 <img src="https://media.licdn.com/dms/image/v2/C4D03AQF0J4gnBUSBxg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517036086197?e=1733961600&v=beta&t=zktBF9WIDtRxcUDhewLmYYxr9aVXAPL9Olt2eHTJHHw" alt="Marcelo Sureda">
 
@@ -12,6 +12,10 @@ Principal Technical Consultant at <a href="https://www.aciworldwide.com/">ACI Wo
 
 </center>
 
+<h2>Presentation</h2>
+
+I am a technically oriented skilled professional with thirty years of experience as developer in the Fintech industry. I have strong programming skills, and knowledge in different technologies, OSs, databases and cloud computing deploys. I have successfully played the technical lead role in several projects applying agile methodologies. I have worked developing and customizing software and making implementations on site and remotely for customers of Argentina, Brazil, Chile, Colombia, Mexico and Uruguay.
+
 <h2>Contact Information</h2>
 
 <a href="https://www.linkedin.com/in/marcelosureda/">Linkedin profile</a>
@@ -20,7 +24,10 @@ Contact e-mail: <a href="mailto:msureda@gmail.com">msureda@gmail.com</a>
 
 <h1>Experience & Knowledge</h1>
 
+Follows the list of programming languages, technologies, tools and industry software systems with which I have worked.
+
 <h2>Programming languages</h2>
+
 <ul>
 <li>C, C++</li>
 <li>Cobol</li>
@@ -35,9 +42,7 @@ Contact e-mail: <a href="mailto:msureda@gmail.com">msureda@gmail.com</a>
 </ul>
 </ul>
 
-<h2>Areas of knowledge</h2>
-
-<h3>OS</h3>
+<h2>Operative Systems</h2>
 
 <ul>
 <li>HP NonStop</li>
@@ -57,13 +62,13 @@ Contact e-mail: <a href="mailto:msureda@gmail.com">msureda@gmail.com</a>
 <li>Windows</li>
 </ul>
 
-<h3>Network</h3>
+<h2>Network</h2>
 
 <ul>
-<li>Set up TCP/IP networks in different environments</li>
+<li>Set up and troubleshoot TCP/IP networks in different environments</li>
 </ul>
 
-<h3>Database</h3>
+<h2>Databases</h2>
 
 <ul>
 <li>Enscribe</li>
@@ -74,14 +79,14 @@ Contact e-mail: <a href="mailto:msureda@gmail.com">msureda@gmail.com</a>
 <li>Neo4j</li>
 </ul>
 
-<h3>Message Brokers</h3>
+<h2>Message Brokers</h2>
 
 <ul>
 <li>IBM MQ</li>
 <li>Rabbit MQ</li>
 </ul>
 
-<h3>Cloud Computing</h3>
+<h2>Cloud Computing</h2>
 
 <ul>
 <li>Microsoft Azure</li>
